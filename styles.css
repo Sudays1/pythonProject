@@ -1,0 +1,57 @@
+body {
+    background-image: url("background.image.jpg");
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: "Agency FB";
+    border: gray;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+        background: gray;
+    margin-left: 700px;
+    margin-right: 665px;
+}
+
+
+img {
+    width: 499px;
+    height: 333px;
+
+    border: gray;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 5px;
+        background: gray;
+    margin-left: 700px;
+    margin-right: 750px;
+}
+
+p {
+    font-size: 35px;
+    font-family: "Agency FB";
+    text-align: center;
+
+    border: gray;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    background: gray;
+    margin-left: 700px;
+    margin-right: 665px;
+}
+
+a {
+    font-size: 35px;
+    text-align: center;
+    display: block;
+    border: gray;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background: gray;
+    margin-left: 700px;
+    margin-right: 665px;
+}
